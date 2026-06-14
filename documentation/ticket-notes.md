@@ -8,10 +8,10 @@ User: Emma Clarke
 
 Department: Finance
 
-Issue:
+## Issue:
 
 User reports that her account becomes locked every 15 minutes.
 
-##Impact:##
+## Impact:
 
 Unable to access Outlook, network drives, and domain resources.
