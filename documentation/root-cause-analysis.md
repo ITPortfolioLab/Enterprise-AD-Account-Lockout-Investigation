@@ -1,6 +1,6 @@
 # Root Cause Analysis
 
-Investigation identified #### Event ID 4740 on DC01.
+Investigation identified Event ID 4740 on DC01.
 
 ## Caller Computer Name:
 
