@@ -1,12 +1,12 @@
 # Ticket 001
 
-Date: 2025-06-01
+#### Date: 2025-06-01
 
-Priority: Medium
+### Priority: Medium
 
-User: Emma Clarke
+### User: Emma Clarke
 
-Department: Finance
+### Department: Finance
 
 ## Issue:
 
