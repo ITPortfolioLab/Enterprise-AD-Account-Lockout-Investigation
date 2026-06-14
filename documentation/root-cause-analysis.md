@@ -6,6 +6,4 @@
 
 CLIENT01
 
-Further investigation found a persistent mapped drive configured with outdated credentials.
-
-These incorrect credentials repeatedly attempted authentication against Active Directory, triggering account lockout policies.
+Further investigation found a persistent mapped drive configured with outdated credentials. These incorrect credentials repeatedly attempted authentication against Active Directory, triggering account lockout policies.
